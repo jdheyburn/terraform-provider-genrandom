@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/jdheyburn/terraform-provider-template/genrandom"
+	"github.com/jdheyburn/terraform-provider-genrandom/genrandom"
 )
 
 func main() {
