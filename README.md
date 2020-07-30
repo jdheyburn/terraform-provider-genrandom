@@ -2,7 +2,7 @@
 
 TF Provider to generate a random number.
 
-# Local Development
+## Local Development
 
 To build:
 
@@ -22,9 +22,9 @@ To copy locally for testing:
 cp ~/go/bin/terraform-provider-genrandom ~/.terraform.d/plugins/
 ```
 
-# Resources
+## Resources
 
-## genrandom_int
+### genrandom_int
 
 Example usage:
 
